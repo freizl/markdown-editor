@@ -1,4 +1,3 @@
-
 ## markdown-editor
 
 1. a text editor
@@ -7,6 +6,10 @@
   - two siders
   - preview at runtime 
 10. toolbar
+
+## Some new thoughts
+- angularJS module
+- Preview on the fly (Like the editor of Atlassian Confluence)
 
 
 ## References
